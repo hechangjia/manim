@@ -1,0 +1,28 @@
+# 操作系统文件
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# IDE 文件
+.vscode/
+.idea/
+
+# 编译文件
+*.class
+*.o
+*.pyc
+__pycache__/
+
+# 日志和临时文件
+*.log
+*.tmp
+*.pid
+
+# 构建和打包文件
+dist/
+build/
+node_modules/
+
+# 虚拟环境
+venv/
+env/
