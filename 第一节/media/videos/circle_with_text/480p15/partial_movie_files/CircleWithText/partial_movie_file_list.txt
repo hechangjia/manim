@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/桌面/Manim学习/第一节/media/videos/circle_with_text/480p15/partial_movie_files/CircleWithText/1185818338_2786621378_223132457.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/circle_with_text/480p15/partial_movie_files/CircleWithText/624642324_3890345977_3859893238.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/circle_with_text/480p15/partial_movie_files/CircleWithText/624642324_130369205_3421364175.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/circle_with_text/480p15/partial_movie_files/CircleWithText/624642324_3890345977_2597362308.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/circle_with_text/480p15/partial_movie_files/CircleWithText/624642324_221866852_2879855319.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/circle_with_text/480p15/partial_movie_files/CircleWithText/624642324_3890345977_3632999845.mp4'

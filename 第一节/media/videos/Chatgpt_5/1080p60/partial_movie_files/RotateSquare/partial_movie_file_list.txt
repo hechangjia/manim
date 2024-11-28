@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_5/1080p60/partial_movie_files/RotateSquare/3977891868_3521574686_223132457.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_5/1080p60/partial_movie_files/RotateSquare/2852726489_3890345977_2153596852.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_5/1080p60/partial_movie_files/RotateSquare/2852726489_740933197_1394836824.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_5/1080p60/partial_movie_files/RotateSquare/2852726489_3890345977_803027410.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_5/1080p60/partial_movie_files/RotateSquare/2852726489_351215099_2658607449.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_5/1080p60/partial_movie_files/RotateSquare/2852726489_3890345977_3632999845.mp4'

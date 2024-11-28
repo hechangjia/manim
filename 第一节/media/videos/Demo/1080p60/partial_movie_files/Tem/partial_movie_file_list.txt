@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/3977891868_1143110121_223132457.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_1704852926_32290461.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_513524524_3159539128.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_1704852926_3513046350.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_3075946029_3801727571.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_1704852926_3051474823.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_2751995321_1759124057.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_1704852926_725398215.mp4'
