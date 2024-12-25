@@ -1,0 +1,9 @@
+{
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "autoPairMarkdown": false,
+  "trashOption": "local",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}
