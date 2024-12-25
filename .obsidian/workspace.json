@@ -98,8 +98,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,8 +199,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "805ade7976dc07ad",
+  "active": "d0a5672b0705e32f",
   "lastOpenFiles": [
+    "050_ReadingNotes",
+    "040_Dairy",
+    "030_Templater",
+    "020_Attachment",
+    "010_FileBox",
     "ReadMe.md",
     "未命名.md"
   ]

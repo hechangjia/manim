@@ -1,1 +1,2 @@
-这是我用来同步Obsidian的repo
+这是我用来同步Obsidian的repo.
+这是一个日常库.
