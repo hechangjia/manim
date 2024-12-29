@@ -1,0 +1,11 @@
+{
+  "pinned": [
+    "theme:use-dark",
+    "theme:use-light",
+    "markdown:edit-metadata-property",
+    "editor:insert-link",
+    "editor:insert-wikilink",
+    "workspace:move-to-new-window",
+    "app:show-debug-info"
+  ]
+}

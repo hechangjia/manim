@@ -5,5 +5,9 @@
   "autoPairMarkdown": false,
   "trashOption": "local",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "010_FileBox",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "020_Attachment"
 }

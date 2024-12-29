@@ -43,6 +43,7 @@
               "state": {
                 "file": "寒假计划.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
@@ -62,6 +63,7 @@
       {
         "id": "faadbae5acacbc3e",
         "type": "tabs",
+        "dimension": 36.5234375,
         "children": [
           {
             "id": "d0a5672b0705e32f",
@@ -113,6 +115,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "97429477b71a0c47",
+        "type": "tabs",
+        "dimension": 63.4765625,
+        "children": [
+          {
+            "id": "7ff19bd14baff710",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "寒假计划.md"
+              },
+              "icon": "lucide-list",
+              "title": "寒假计划 的大纲"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,6 +146,7 @@
       {
         "id": "e14832d8849b281b",
         "type": "tabs",
+        "dimension": 32.551594746716695,
         "children": [
           {
             "id": "9f882a9b7c2af103",
@@ -132,31 +154,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
-                "collapseAll": false,
+                "file": "寒假计划.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
-            }
-          },
-          {
-            "id": "81814a65ecb34402",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "未命名.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "寒假计划 的反向链接列表"
             }
           },
           {
@@ -173,18 +181,6 @@
             }
           },
           {
-            "id": "ef39b1a9f48f9e9d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "未命名.md"
-              },
-              "icon": "lucide-list",
-              "title": "未命名 的大纲"
-            }
-          },
-          {
             "id": "6d59174ea7bf2472",
             "type": "leaf",
             "state": {
@@ -194,12 +190,33 @@
               "title": "Calendar"
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0a65c67e697dfc48",
+        "type": "tabs",
+        "dimension": 67.4484052532833,
+        "children": [
+          {
+            "id": "81814a65ecb34402",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "寒假计划.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "寒假计划 的出链列表"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +230,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "65932700b475cd7c",
+  "active": "6d59174ea7bf2472",
   "lastOpenFiles": [
     "未命名.md",
     "寒假计划.md",
