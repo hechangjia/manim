@@ -57,15 +57,17 @@
             "id": "aab8a7af3446e883",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "寒假计划.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 426.5,
+                  "y": -223.5,
+                  "zoom": -0.8299379579457693
+                }
               },
-              "icon": "lucide-file",
-              "title": "寒假计划"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ],
@@ -81,7 +83,7 @@
       {
         "id": "faadbae5acacbc3e",
         "type": "tabs",
-        "dimension": 36.5234375,
+        "dimension": 52.883675464320625,
         "children": [
           {
             "id": "d0a5672b0705e32f",
@@ -137,7 +139,7 @@
       {
         "id": "97429477b71a0c47",
         "type": "tabs",
-        "dimension": 63.4765625,
+        "dimension": 47.116324535679375,
         "children": [
           {
             "id": "7ff19bd14baff710",
@@ -145,10 +147,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "寒假计划.md"
+                "file": "未命名.canvas"
               },
               "icon": "lucide-list",
-              "title": "寒假计划 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ]
@@ -253,6 +255,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:发布更改": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -268,9 +271,9 @@
   },
   "active": "aab8a7af3446e883",
   "lastOpenFiles": [
+    "寒假计划.md",
     "学期总结大纲.canvas",
     "ReadMe.md",
-    "寒假计划.md",
     "未命名.canvas",
     "未命名.md",
     "020_Attachment/图片/beamer图片1.png",
