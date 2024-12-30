@@ -57,15 +57,17 @@
             "id": "aab8a7af3446e883",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ReadMe.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "学期总结大纲.canvas",
+                "viewState": {
+                  "x": -302,
+                  "y": -47.00000000000006,
+                  "zoom": -1.225396211870805
+                }
               },
-              "icon": "lucide-file",
-              "title": "ReadMe"
+              "icon": "lucide-layout-dashboard",
+              "title": "学期总结大纲"
             }
           }
         ],
@@ -145,10 +147,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+                "file": "学期总结大纲.canvas"
               },
               "icon": "lucide-list",
-              "title": "ReadMe 的大纲"
+              "title": "学期总结大纲 的大纲"
             }
           }
         ]
@@ -236,12 +238,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "学期总结大纲.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ReadMe 的出链列表"
+              "title": "学期总结大纲 的出链列表"
             }
           }
         ]
@@ -268,6 +270,7 @@
   },
   "active": "aab8a7af3446e883",
   "lastOpenFiles": [
+    "ReadMe.md",
     "寒假计划.md",
     "未命名.canvas",
     "未命名.md",
@@ -275,7 +278,6 @@
     "020_Attachment/图片/beamer图片1.png",
     "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png",
     "020_Attachment/图片",
-    "ReadMe.md",
     "010_FileBox/学期总结大纲.md",
     "未命名",
     "050_ReadingNotes",
