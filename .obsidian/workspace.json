@@ -57,17 +57,15 @@
             "id": "aab8a7af3446e883",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "学期总结大纲.canvas",
-                "viewState": {
-                  "x": -302,
-                  "y": -47.00000000000006,
-                  "zoom": -1.225396211870805
-                }
+                "file": "寒假计划.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "学期总结大纲"
+              "icon": "lucide-file",
+              "title": "寒假计划"
             }
           }
         ],
@@ -147,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学期总结大纲.canvas"
+                "file": "寒假计划.md"
               },
               "icon": "lucide-list",
-              "title": "学期总结大纲 的大纲"
+              "title": "寒假计划 的大纲"
             }
           }
         ]
@@ -270,11 +268,11 @@
   },
   "active": "aab8a7af3446e883",
   "lastOpenFiles": [
+    "学期总结大纲.canvas",
     "ReadMe.md",
     "寒假计划.md",
     "未命名.canvas",
     "未命名.md",
-    "学期总结大纲.canvas",
     "020_Attachment/图片/beamer图片1.png",
     "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png",
     "020_Attachment/图片",
