@@ -216,17 +216,18 @@
       "obsidian-kanban:创建新看板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5dc8d3ae97d8db90",
   "lastOpenFiles": [
-    "010_FileBox/学期总结大纲.md",
+    "学期总结大纲.canvas",
     "010_FileBox/test.md",
+    "010_FileBox/学期总结大纲.md",
     "ReadMe.md",
     "未命名.canvas",
     "寒假计划.md",
-    "学期总结大纲.canvas",
     "未命名.md",
     "020_Attachment/图片/beamer图片1.png",
     "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png",
