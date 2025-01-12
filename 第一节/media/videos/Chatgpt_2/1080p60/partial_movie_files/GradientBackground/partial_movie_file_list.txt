@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_2/1080p60/partial_movie_files/GradientBackground/3977891868_4024645135_3635298019.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_2/1080p60/partial_movie_files/GradientBackground/2852726489_1141282389_3501247962.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_2/1080p60/partial_movie_files/GradientBackground/2852726489_3683423031_2532714663.mp4'

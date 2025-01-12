@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_6/1080p60/partial_movie_files/DrawPolygon/3977891868_3664937781_223132457.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_6/1080p60/partial_movie_files/DrawPolygon/2852726489_3890345977_1297845994.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_6/1080p60/partial_movie_files/DrawPolygon/2852726489_1372951452_2909672288.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_6/1080p60/partial_movie_files/DrawPolygon/2852726489_3890345977_1809389327.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_6/1080p60/partial_movie_files/DrawPolygon/2852726489_361249414_1930347264.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_6/1080p60/partial_movie_files/DrawPolygon/2852726489_3890345977_3516331350.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_6/1080p60/partial_movie_files/DrawPolygon/2852726489_1208254381_689059898.mp4'

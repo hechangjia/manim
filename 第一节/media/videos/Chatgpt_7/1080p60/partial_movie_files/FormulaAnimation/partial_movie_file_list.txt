@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_7/1080p60/partial_movie_files/FormulaAnimation/3977891868_2291330905_223132457.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_7/1080p60/partial_movie_files/FormulaAnimation/2852726489_3890345977_2699996885.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_7/1080p60/partial_movie_files/FormulaAnimation/2852726489_2232535941_4227516557.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_7/1080p60/partial_movie_files/FormulaAnimation/2852726489_3890345977_83305321.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_7/1080p60/partial_movie_files/FormulaAnimation/2852726489_3844437562_2061450465.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_7/1080p60/partial_movie_files/FormulaAnimation/2852726489_3890345977_2510118354.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_7/1080p60/partial_movie_files/FormulaAnimation/2852726489_3409638459_1540892527.mp4'

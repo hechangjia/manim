@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Desktop/Git/wsa/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/3977891868_2422999064_223132457.mp4'
+file 'file:D:/Desktop/Git/wsa/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_1733944848_2103374109.mp4'
+file 'file:D:/Desktop/Git/wsa/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_2131692137_3159539128.mp4'
+file 'file:D:/Desktop/Git/wsa/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_1733944848_3349996809.mp4'
+file 'file:D:/Desktop/Git/wsa/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_2127854077_3801727571.mp4'
+file 'file:D:/Desktop/Git/wsa/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_1733944848_100333714.mp4'
+file 'file:D:/Desktop/Git/wsa/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_1244745561_1759124057.mp4'
+file 'file:D:/Desktop/Git/wsa/第一节/media/videos/Demo/1080p60/partial_movie_files/Tem/2852726489_1733944848_1058778895.mp4'

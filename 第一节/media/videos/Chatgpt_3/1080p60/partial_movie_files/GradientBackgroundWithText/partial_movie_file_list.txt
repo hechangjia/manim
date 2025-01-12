@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_3/1080p60/partial_movie_files/GradientBackgroundWithText/3977891868_3498584627_1567146097.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_3/1080p60/partial_movie_files/GradientBackgroundWithText/2852726489_3890345977_3597300626.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_3/1080p60/partial_movie_files/GradientBackgroundWithText/2852726489_361019519_843015821.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_3/1080p60/partial_movie_files/GradientBackgroundWithText/2852726489_3890345977_3911391529.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_3/1080p60/partial_movie_files/GradientBackgroundWithText/2852726489_3508293266_3467206858.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_3/1080p60/partial_movie_files/GradientBackgroundWithText/2852726489_3890345977_1619906006.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_3/1080p60/partial_movie_files/GradientBackgroundWithText/2852726489_1373587195_82383291.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_3/1080p60/partial_movie_files/GradientBackgroundWithText/2852726489_3890345977_1920508520.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_3/1080p60/partial_movie_files/GradientBackgroundWithText/2852726489_1648018629_1256693823.mp4'

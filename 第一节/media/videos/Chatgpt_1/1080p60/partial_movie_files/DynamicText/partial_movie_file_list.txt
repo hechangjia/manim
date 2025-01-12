@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_1/1080p60/partial_movie_files/DynamicText/3977891868_3360089304_223132457.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_1/1080p60/partial_movie_files/DynamicText/2852726489_3890345977_1642462127.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_1/1080p60/partial_movie_files/DynamicText/2852726489_3156450854_4081817089.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_1/1080p60/partial_movie_files/DynamicText/2852726489_3890345977_1487816565.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_1/1080p60/partial_movie_files/DynamicText/2852726489_1640512820_1292388369.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_1/1080p60/partial_movie_files/DynamicText/2852726489_3890345977_1249328623.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_1/1080p60/partial_movie_files/DynamicText/2852726489_3035126456_2030274615.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_1/1080p60/partial_movie_files/DynamicText/2852726489_3890345977_2396748392.mp4'
+file 'file:D:/桌面/Manim学习/第一节/media/videos/Chatgpt_1/1080p60/partial_movie_files/DynamicText/2852726489_3400818325_3546430320.mp4'
